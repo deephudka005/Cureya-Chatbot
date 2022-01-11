@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430324724712",
+    "project_id": "reyana-chatbot",
+    "storage_bucket": "reyana-chatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430324724712:android:cb950413af1a4522632a5d",
+        "android_client_info": {
+          "package_name": "com.example.cureya_chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430324724712-q3mu3qi2on98svdbebs41d1kg7u7ccs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cureya_chatbot",
+            "certificate_hash": "63de6d5018deaa0dc1ae2a4c4b229dd921539a37"
+          }
+        },
+        {
+          "client_id": "430324724712-v9gp4p0i89mdheua86u9anevndpb2vic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxCTOt0QHXuVyO1nivs0cTfRG3RD4eQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430324724712-v9gp4p0i89mdheua86u9anevndpb2vic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

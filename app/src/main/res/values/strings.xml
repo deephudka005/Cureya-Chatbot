@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cureya-Chatbot</string>
+    <string name="keep_your_vitality">Keep Your Vitality</string>
+    <string name="cureya">CUREYA</string>
+    <string name="your_health_our_priority">Your Health, Our Priority</string>
+    <string name="your_health_n_our_priority">Your Health,\n Our Priority</string>
+    <string name="hireyana">Say Hi,\nTo Reyna</string>
+    <string name="skip">SKIP</string>
+    <string name="intro_text_1">We nurture here the technology to \n alleviate your health conditons\n in the best possible way. May it be\n your Mental Health, Physical\n Health or Your Health in an\n Emergency. We are here, for you.</string>
+    <string name="intro_text">Reyana comes to rescue you in\n your health crisis, based on the\n most advanced AI technology\n with the sole motive to help you.\nLet\'s meet Reyana.</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+    <string name="password">Password</string>
+    <string name="email_phone_no">Email/Phone No.</string>
+    <string name="sign_up_now">SIGN UP NOW</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">LOG IN</string>
+    <string name="title_activity_home">home_activity</string>
+    <string name="title_home">Home</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="home">Home</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_the_message">Enter the Message</string>
+    <string name="default_web_client_id_auth">430324724712-v9gp4p0i89mdheua86u9anevndpb2vic.apps.googleusercontent.com</string>
+    <string name="ask_your_question">Ask Your Question</string>
+    <string name="help_desk">Help Desk</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="reyana">Reyana</string>
+</resources>
